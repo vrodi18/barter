@@ -1,0 +1,13 @@
+*tfvars*
+*.state*
+*.tfstate*
+*.terraform*
+*ignoreme*
+common-service-account.json
+*backend.tf*
+*cache*
+set-env
+*fuchicorp-service-account.json*
+.vscode/settings.json
+*config.json
+.DS_Store
